@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="character.png" width="350"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There!%20I'm%20Muktasif%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Graduate%20%7C%20AI%20%26%20Web%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-### Hi 👋, I'm Muktasif
-
----
-
-**Computer Science graduate exploring AI & web dev. Casual gamer 🎮**
-
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6A11CB&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Grad;Deep+Learning+%2B+Computer+Vision+Nerd;Full-Stack+Dev+in+Training;Always+up+for+a+Game+Night+🎮" alt="Typing SVG" />
 
 </div>
 
@@ -17,14 +11,16 @@
 ### 🚀 About Me
 
 - 🎓 Fresh **B.Sc. in CSE** graduate
+
 - 🧠 My thesis, **SadNetV1**, detects neurodegenerative diseases using a custom MobileNetV2-based model — hit **97% accuracy** with Grad-CAM explainability 🔥
+
 - 💻 I like building things that actually solve problems — from student portals to obstacle-dodging robot cars
+
 - 🌱 Currently leveling up in **Deep Learning, NLP, and Model Deployment**
+
 - 🎮 When I'm not coding: gaming and sports have my full attention
 
-<div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
 
 ---
 
