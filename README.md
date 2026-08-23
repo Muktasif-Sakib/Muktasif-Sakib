@@ -17,7 +17,7 @@
 - 🎮 When I'm not coding: gaming and sports have my full attention
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </div>
 
 ---
