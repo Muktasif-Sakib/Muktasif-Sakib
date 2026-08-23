@@ -10,12 +10,11 @@
 
 ### 🚀 About Me
 
-- 🎓 Fresh **B.Sc. in CSE** graduate from **BRAC University** (CGPA 3.27/4.00)
+- 🎓 Fresh **B.Sc. in CSE** graduate
 - 🧠 My thesis, **SadNetV1**, detects neurodegenerative diseases using a custom MobileNetV2-based model — hit **97% accuracy** with Grad-CAM explainability 🔥
 - 💻 I like building things that actually solve problems — from student portals to obstacle-dodging robot cars
 - 🌱 Currently leveling up in **Deep Learning, NLP, and Model Deployment**
-- 🎮 When I'm not coding: gaming and sports have my full attention
-- 📫 Reach me at **muktasif72542@gmail.com**
+- 🎮 When I'm not coding, gaming and anime have my full attention
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
