@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="banner.svg" width="100%"/>
+<img src="character.png" width="350"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6A11CB&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Grad;Deep+Learning+%2B+Computer+Vision+Nerd;Full-Stack+Dev+in+Training;Always+up+for+a+Game+Night+🎮" alt="Typing SVG" />
+### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" style="vertical-align: -8px;"/>, I'm Muktasif
+
+---
+
+**Computer Science graduate exploring AI & web dev. Casual gamer 🎮**
+
+---
 
 </div>
 
