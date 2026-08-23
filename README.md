@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There!%20I'm%20Muktasif%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Graduate%20%7C%20AI%20%26%20Web%20Enthusiast&descAlignY=55&descSize=18" width="90%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6A11CB&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Grad;Deep+Learning+%2B+Computer+Vision+Nerd;Full-Stack+Dev+in+Training;Always+up+for+a+Game+Night+🎮" alt="Typing SVG" />
+### Hi 👋, I'm Muktasif
+
+---
+
+**Computer Science graduate exploring AI & web dev. Casual gamer 🎮**
+
+---
 
 </div>
 
