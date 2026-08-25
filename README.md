@@ -106,9 +106,9 @@ Currently exploring new ideas in AI and web dev — check back for updates!
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muktasif-Sakib&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muktasif-Sakib&layout=compact&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muktasif-Sakib&theme=radical&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=Muktasif-Sakib&theme=radical&hide_border=true" alt="streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muktasif-Sakib&theme=redical&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muktasif-Sakib&theme=radical&hide_border=true" width="90%"/>
 
 </div>
 
